@@ -1,0 +1,28 @@
+h2 {
+    padding-top: 3rem;
+  }
+  
+  p {
+    padding: 1rem;
+    box-sizing: border-box;
+    font-weight: bold;
+  }
+  
+  .fade {
+    opacity: 0;
+  }
+
+  .color {
+    background-color: orange;
+    color: #ffffff;
+    
+  }
+
+  .line {
+    background-color: #ff9e0c;
+    width: 0;
+  }
+
+  .slide-in {
+    opacity: 0;
+  }
